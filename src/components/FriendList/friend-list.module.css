@@ -1,0 +1,16 @@
+.friend {
+  display: flex;
+
+  justify-content: space-around;
+
+  border: 1px solid rgba(117, 117, 117, 1);
+
+  box-shadow: 1px 1px 3px rgb(0 0 0 / 12%), 1px 1px 1px rgb(0 0 0 / 14%),
+    1px 2px 1px rgb(0 0 0 / 20%);
+  border-radius: 10px;
+
+  padding: 20px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
